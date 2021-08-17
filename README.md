@@ -1,5 +1,9 @@
-# git branch 11
+# git branch
 
-# mster 11
+### 回滚
 
-# dev 01
+```js
+> git reset --hard HEAD~1 回滚
+> git push -f origin dev.1 上传
+
+```
