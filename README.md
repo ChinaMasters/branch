@@ -4,6 +4,6 @@
 
 ```js
 > git reset --hard HEAD~1 回滚
-> git push -f origin dev.1 上传
+> git push -f origin dev01 上传
 
 ```
